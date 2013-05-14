@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://syunguo.github.io/sitemap.xml 
